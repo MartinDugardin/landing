@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=ABeeZee|Kanit|Permanent+Marker");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: ;
+	font-size: ;
+
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	color: red;
+	
+}
+
+h2 {
+	font-family: 'Kanit', sans-serif;
+}
+
+p { 
+	font-family: 'ABeeZee', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+.typeform-widget {
+	margin-left: auto;
+    margin-right: auto;
+}
